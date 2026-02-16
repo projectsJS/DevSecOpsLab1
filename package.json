@@ -1,9 +1,10 @@
 {
-  "name": "weather-app",
-  "version": "1.0.0",
-  "description": "Secure Weather App",
-  "main": "app.js",
-  "scripts": {
-    "test": "node test.js"
-  }
-}
+     "name": "ci-lab",
+     "version": "1.0.0",
+     "scripts": {
+       "test": "jest"
+     },
+     "devDependencies": {
+       "jest": "^29.7.0"
+     }
+   }
